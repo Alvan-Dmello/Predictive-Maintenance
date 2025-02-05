@@ -11,9 +11,9 @@ This project focuses on using machine learning to predict failures in air produc
 - NumPy
   
 # Repository Files
-- dataset_link.txt: Contains the link to the dataset used for training and testing the model.
-- project_report.pdf: Detailed project report outlining the approach, methods, and results, including model performance and hyperparameter tuning outcomes.
-- random_forest_model.ipynb: Jupyter notebook used for model development, including data preprocessing, feature engineering, model training, and evaluation.
+- Dataset Link: Contains the link to the Kaggle dataset used for training and testing the model.
+- Project Report: Detailed project report outlining the approach, methods, and results, including model performance and hyperparameter tuning outcomes.
+- Predictive_Maintenance.ipynb: Jupyter notebook used for model development, including data preprocessing, feature engineering, model training, and evaluation.
 
 # How to use
 Refer to the Project report for a detailed description of the steps . All the files utilised for the project are present in this repository in respective folders. As a starting point, use the jupyter notebook.
