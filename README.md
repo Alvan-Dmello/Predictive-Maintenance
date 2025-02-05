@@ -10,11 +10,10 @@ This project focuses on using machine learning to predict failures in air produc
 - Pandas
 - NumPy
   
-# Repository Folders
-- Data - Contains a readme file which has the link to the CDC website from where the data was downloaded
-- Colab Notebook - Contains the notebook used to authenticate GCP and perform preprocessing on data ingested from GCS
-- Looker - Contains the Looker 
-- Report - Contains the project report which contains detailed steps and results about how the project was performed and analysed.
+# Repository Files
+- dataset_link.txt: Contains the link to the dataset used for training and testing the model.
+- project_report.pdf: Detailed project report outlining the approach, methods, and results, including model performance and hyperparameter tuning outcomes.
+- random_forest_model.ipynb: Jupyter notebook used for model development, including data preprocessing, feature engineering, model training, and evaluation.
 
 # How to use
 Refer to the Project report for a detailed description of the steps . All the files utilised for the project are present in this repository in respective folders. As a starting point, use the jupyter notebook.
