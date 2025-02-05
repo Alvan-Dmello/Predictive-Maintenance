@@ -20,4 +20,4 @@ This project focuses on using machine learning to predict failures in air produc
 Refer to the Project report for a detailed description of the steps . All the files utilised for the project are present in this repository in respective folders. As a starting point, use the jupyter notebook.
 
 # Published Results
-The results from the analysis are the looker charts and graphs which are present in the Looker folder in this repository. Refer to the project report for a detailed explanation of the graphs
+The results of the model's predictions, including its accuracy, precision, and feature importance, are summarized in the Report. The report includes detailed explanations of the model's performance and the impact of feature engineering and hyperparameter tuning on prediction quality.
