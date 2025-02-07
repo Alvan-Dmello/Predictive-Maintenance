@@ -16,7 +16,7 @@ This project focuses on using machine learning to predict failures in air produc
 - Predictive_Maintenance.ipynb: Jupyter notebook used for model development, including data preprocessing, feature engineering, model training, and evaluation.
 
 # How to use
-Refer to the Project report for a detailed description of the steps . All the files utilised for the project are present in this repository in respective folders. As a starting point, use the jupyter notebook.
+Refer to the Project report for a detailed description of the steps . All the files utilised for the project are present in this repository.
 
 # Published Results
 The results of the model's predictions, including its accuracy, precision, and feature importance, are summarized in the Report. The report includes detailed explanations of the model's performance and the impact of feature engineering and hyperparameter tuning on prediction quality.
