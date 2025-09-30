@@ -2,7 +2,7 @@
 
 ## 💡 Project Overview
 
-This project focuses on leveraging **Random Forest** machine learning models to predict failures in the **air production units (APU)** of heavy-duty metro compressors. The primary goal is to shift maintenance from reactive to predictive, thereby minimizing unplanned downtime, optimizing operational efficiency, and extending the lifespan of critical equipment.
+This project focuses on leveraging **Random Forest** machine learning model to predict failures in the **air production units (APU)** of metro compressors. The primary goal is to shift maintenance from reactive to predictive, thereby minimizing unplanned downtime, optimizing operational efficiency, and extending the lifespan of critical equipment.
 
 The entire analysis, from data cleaning and feature engineering to model training and evaluation, is documented step-by-step in the accompanying Jupyter Notebook.
 
