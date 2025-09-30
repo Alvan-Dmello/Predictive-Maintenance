@@ -41,7 +41,7 @@ The core of this project is the **Predictive_Maintenance.ipynb** notebook.
     cd Predictive-Maintenance
     ```
 2.  **Launch the Notebook:** Open the file locally using Jupyter Lab or VS Code, or simply view the rendered file directly on GitHub.
-    * **Notebook:** [`Predictive_Maintenance.ipynb`](./predictive_maintenance.ipynb)
+    * **Notebook:** [`Predictive_Maintenance.ipynb`](./predictive maintenance.ipynb)
 
 3.  **Review the Report:** For a non-code summary of the project's setup, feature engineering choices, and a full analysis of performance metrics (Accuracy, Precision, Recall, F1-Score), refer to the **Project Report**.
 
