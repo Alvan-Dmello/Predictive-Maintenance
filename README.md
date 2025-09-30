@@ -1,4 +1,4 @@
-# 🚂 Predictive-Maintenance for Metro Compressors
+# Predictive-Maintenance for Metro Compressors
 
 ## 💡 Project Overview
 
